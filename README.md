@@ -2,7 +2,7 @@
 This project is part of The Odin Project's curriculum, specifically the "Foundations" module. The objective is to create a landing page using HTML and CSS, applying the concepts of flexbox and responsive design.
 
 ## Live preview of landing page
-[Oding Landing] (https://evquiros.github.io/odin-landing)
+[Oding Landing](https://evquiros.github.io/odin-landing)
 
 ## Assignment Link
-[Project: Landing Page] (https://www.theodinproject.com/lessons/foundations-landing-page#project-solution)
+[Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page#project-solution)
