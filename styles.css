@@ -54,6 +54,10 @@ body {
     gap: 10px;
 }
 
+.header-left p {
+    margin: 10px 0;
+}
+
 .header-right {
     align-items: center;
     background-color: grey;
@@ -67,6 +71,8 @@ body {
     color: white;
     border-radius: 5px;
     font-weight: bold;
+    padding: 10px;
+    font-size: 15px;
 }
 
 .random-info {
